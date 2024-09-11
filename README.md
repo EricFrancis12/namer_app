@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Video Tutorial
+
+https://www.youtube.com/watch?v=8sAyPDLorek
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
